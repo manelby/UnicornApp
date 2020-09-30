@@ -29,8 +29,8 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
+       //     "es5BrowserSupport": true
           },
           "configurations": {
             "production": {
@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "UnicornAppTest"
+  "defaultProject": "UnicornAppTest",
+  "cli": {
+    "analytics": "7b8e68bb-9baf-4df4-9525-d616d994e507"
+  }
 }
